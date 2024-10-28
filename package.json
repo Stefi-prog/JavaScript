@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Stefi-prog/JavaScript/issues"
   },
-  "homepage": "https://github.com/Stefi-prog/JavaScript#readme"
+  "homepage": "https://github.com/Stefi-prog/JavaScript#readme",
+  "dependencies": {
+    "nodemon": "3.1.7"
+  }
 }
